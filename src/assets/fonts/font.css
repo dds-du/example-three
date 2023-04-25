@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'diamond';
+	src: url(./number.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'score-number';
+	src: url(./Acens.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
